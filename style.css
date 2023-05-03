@@ -12,7 +12,13 @@
     float: right;
     border: 1px solid white;
 }
-#start,#status
+#start,#status,#restart
 {
     font-size: 22px;
+}
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 3;
 }
